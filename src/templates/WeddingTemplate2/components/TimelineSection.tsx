@@ -24,7 +24,7 @@ const events: WeddingEvent[] = [
     badge: '9 December 2026',
     title: 'Mehendi',
     subtitle: 'A celebration of colour and joy',
-    image: '/events/mehendi.jpg',
+    image: '/events/mehendi.jpeg',
     imageAlt: 'Traditional illustration of a woman applying mehendi',
     story: 'Join our families as we begin the wedding celebrations with the Mehendi function.'
   },
