@@ -22,8 +22,8 @@ export default function Modals() {
 We joyfully invite you to celebrate the wedding of
 💐 *${weddingDetails.groom} & ${weddingDetails.bride}* 💐
 
-🌿 *Mehendi* — 8 December 2026
-🌼 *Haldi* — 10 December 2026
+🌼 *Haldi* — 9 December 2026
+🌿 *Mehendi* — 9 December 2026
 💍 *Ring Ceremony* — 10 December 2026, 7:30 PM onwards
 🪔 *Muhurtha* — 11 December 2026, 9:00 AM to 9:50 AM
 🎉 *Reception* — 11 December 2026, 11:45 AM onwards
