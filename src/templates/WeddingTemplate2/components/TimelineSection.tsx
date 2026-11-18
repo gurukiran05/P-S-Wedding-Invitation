@@ -20,7 +20,7 @@ interface WeddingEvent {
 const events: WeddingEvent[] = [
   {
     id: 'haldi', 
-    step: 'II',
+    step: 'I',
     badge: '9 December 2026',
     title: 'Haldi',
     subtitle: 'A bright and joyful family gathering',
@@ -29,7 +29,7 @@ const events: WeddingEvent[] = [
     story: 'Celebrate this beautiful pre-wedding tradition with the couple and their families.'
   },{
     id: 'mehendi',
-    step: 'I',
+    step: 'II',
     badge: '9 December 2026',
     title: 'Mehendi',
     subtitle: 'A celebration of colour and joy',
