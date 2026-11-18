@@ -19,6 +19,15 @@ interface WeddingEvent {
 
 const events: WeddingEvent[] = [
   {
+    id: 'haldi', 
+    step: 'II',
+    badge: '9 December 2026',
+    title: 'Haldi',
+    subtitle: 'A bright and joyful family gathering',
+    image: '/events/haldi.jpg',
+    imageAlt: 'Bride celebrating the Haldi ceremony',
+    story: 'Celebrate this beautiful pre-wedding tradition with the couple and their families.'
+  },{
     id: 'mehendi',
     step: 'I',
     badge: '9 December 2026',
@@ -27,16 +36,6 @@ const events: WeddingEvent[] = [
     image: '/events/mehendi.jpeg',
     imageAlt: 'Traditional illustration of a woman applying mehendi',
     story: 'Join our families as we begin the wedding celebrations with the Mehendi function.'
-  },
-  {
-    id: 'haldi', 
-    step: 'II',
-    badge: '10 December 2026',
-    title: 'Haldi',
-    subtitle: 'A bright and joyful family gathering',
-    image: '/events/haldi.jpg',
-    imageAlt: 'Bride celebrating the Haldi ceremony',
-    story: 'Celebrate this beautiful pre-wedding tradition with the couple and their families.'
   },
   {
     id: 'ring-ceremony',
